@@ -82,7 +82,7 @@ OWNER_ID = list(
 # make your bots privacy from telegra.ph and put your url here
 
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-VIPMUSIC-08-30"
+    "PRIVACY_LINK", "https://telegra.ph/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%94%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D-10-19"
 )
 
 
